@@ -1,12 +1,13 @@
-answer C:
-
-1. Sprint Planning
-Objective Setting: Determine what to achieve in the sprint.
-Task Breakdown: Discuss how to accomplish these objectives.
-2. Daily Scrum (Daily Stand-Up)
-Progress Updates: Team members report what they've done and will do.
-Blockers: Identify any impediments affecting their tasks.
-3. Sprint Review
-Demonstration: Present completed work to stakeholders.
-Feedback Collection: Discuss what went well and what needs improvement.
-
+answer D:
+1.Epic
+Definition: A large body of work that contains related tasks, stories, and bugs.
+Usage: Helps in grouping smaller, related items that contribute to a significant feature or objective over multiple sprints.
+2. Story (User Story)
+Definition: A smaller, actionable component of work that delivers value to the user, typically focusing on a specific feature or functionality.
+Usage: Specifies functionality from an end-user perspective and includes acceptance criteria to define what needs to be done.
+3. Bug
+Definition: Represents a problem causing a defect or error in the system that needs to be fixed.
+Usage: Used to track defects that need resolution to ensure the product works as intended.
+4. Task
+Definition: A small, specific piece of work required to complete a story or an epic.
+Usage: Used to break down stories into manageable units of work that can be assigned and tracked individually.
