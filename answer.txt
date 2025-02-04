@@ -1,0 +1,10 @@
+answer A : 
+pros: 
+Flexibility and Adaptability: Agile allows for changes in project requirements even after the initial planning has been completed, making it ideal for projects where user needs evolve or market conditions can change rapidly.
+Customer Satisfaction: With regular iterations and frequent feedback, customers are involved throughout the development process, leading to a product that more closely meets their needs and expectations.
+Improved Quality: Regular reviews, testing during each iteration, and continuous integration help identify and fix defects early, improving the overall quality of the software.
+
+cons: 
+Less Predictability: Due to its flexible nature, it can be harder to predict the final delivery date and total costs of a project as scope and requirements may evolve.
+Scope Creep: Without careful management, the scope of the project can expand beyond initial estimates due to the ongoing incorporation of new ideas and features.
+Requires More Time and Commitment: Agile demands significant time and involvement from stakeholders and team members, which can be challenging if participants have other responsibilities
